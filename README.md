@@ -6,6 +6,17 @@ Here's a list:
   * uno dos
   * uno tres
 * dos
+* tres
+
+And here's an ordered list:
+1. yi
+    1. a
+    2. b
+2. er
+3. san
+4. si
+
+* dos
 
   Lets just include a whole bunch of text here for the heck of it. 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla cursus sit amet arcu eget ullamcorper. 
@@ -16,10 +27,3 @@ Here's a list:
 
 * tres
 
-And here's an ordered list:
-1. yi
-    1. a
-    2. b
-2. er
-3. san
-4. si
